@@ -1,8 +1,8 @@
 # vscode-vim-settings
 Personal settings.json for vscode
 
-
 {
+
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
     "window.zoomLevel": 1,
     "editor.tabSize": 2,
@@ -51,3 +51,4 @@ Personal settings.json for vscode
             }
         ]
 }
+
