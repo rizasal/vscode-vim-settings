@@ -1,5 +1,7 @@
 # vscode-vim-settings
 Personal settings.json for vscode
+
+
 {
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
     "window.zoomLevel": 1,
@@ -15,7 +17,6 @@ Personal settings.json for vscode
     "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
-
     "http.proxySupport": "off",
     "vim.normalModeKeyBindingsNonRecursive": [
         {
